@@ -2,6 +2,9 @@ import java.awt.*;
 
 public class Volvo240 extends AbstractVehicle{
 
+    /**
+     * Trimfactor of car
+     */
     private final static double trimFactor = 1.25;
 
     public Volvo240(){
