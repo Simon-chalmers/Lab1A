@@ -1,0 +1,18 @@
+import java.util.List;
+
+public class AbstractGarage {
+
+    List<AbstractVehicle> listVehicles;
+
+    int maxVehicles;
+
+    public void addVehicle(AbstractVehicle vehicle){
+
+    }
+
+    public AbstractVehicle removeVehicle(){
+        
+    }
+
+
+}
