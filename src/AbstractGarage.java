@@ -11,7 +11,7 @@ public class AbstractGarage {
     }
 
     public AbstractVehicle removeVehicle(){
-
+        return listVehicles.get(1);
     }
 
 
